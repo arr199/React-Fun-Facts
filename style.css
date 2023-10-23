@@ -1,0 +1,68 @@
+
+body{
+    
+    max-width: 550px;
+    margin: 0  auto;
+    font-size: 16px;
+    font-family: inter;
+    
+}
+
+/* NAVBAR COMPONENT */
+
+.navbar {
+    padding: 2em 1.6em  2.2em 1.6em ;
+    display: flex;
+    align-items: center;
+    gap: .5em;
+    background-color: #21222A; 
+    margin: 0 auto;
+    font-size: 16px;
+    
+    
+}
+
+.title {
+    margin: 0px;
+   
+    color: #61DAFB;
+}
+
+.lesson {
+    margin: 0 0 0 auto;
+    color: #DEEBF8;
+      
+}
+
+
+/* NAVBAR COMPONENT */
+
+.main-section {
+    margin: 0;
+    background: #282D35;
+    padding: 0 1.6em ;
+    color: #FFFFFF;
+    margin: 0 auto;
+    height: 459px;
+    
+}
+
+.main-title {
+   margin: 0;
+   font-size: 39px;
+   padding:  57px 0 46px 0  ;
+  
+    
+}
+
+.facts {
+    margin: 0;
+}
+
+.facts li {
+    padding: .6em;
+    list-style-image: url("Images/Ellipse.png");
+    
+}
+
+
